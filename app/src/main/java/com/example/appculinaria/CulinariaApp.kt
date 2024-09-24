@@ -5,5 +5,5 @@ import dagger.hilt.android.HiltAndroidApp
 
 
 @HiltAndroidApp
-class CulinariaApp:Application() {
+class CulinariaApp: Application() {
 }
